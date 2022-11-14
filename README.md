@@ -1,6 +1,7 @@
 # Topics in MySQL
 
-*** RETRIEVING DATA *** 
+*** RETRIEVING DATA ***
+
     - SELECT clause
     - WHERE clause
     - AND, OR, and NOT operators
@@ -13,6 +14,7 @@
     - LIMIT clause
     
  *** RETRIEVING DATA FROM MULTIPLE TABLES ***
+ 
     - INNER JOINS
     - JOINING ACROSS DATABASES
     - SELF JOINS
@@ -28,6 +30,7 @@
  
  
 *** INSERTING, UPDATING, AND DELETING data ***
+
     - COLUMN attributes
     - INSERTING A ROW
     - INSERTING MULTIPLE ROWS
@@ -40,12 +43,14 @@
     - RESTORING THE DATABASES
 
 *** SUMMARIZING DATA ***
+
     - AGGREAGATE FUNCTIONS
     - GROUP BY clause
     - HAVING clause
     - ROLLUP operator
     
 *** WRITING COMPLEX QUERY ***
+
     - SUBQUERIES
     - IN operator
     - SUBQUERIES vs JOINS
@@ -57,6 +62,7 @@
     - SUBQUERIES in the FROM clause
     
 *** ESSENTIAL MySQL Functions ***
+
     - NUMERIC FUNCTIONS
     - STRING FUNCTIONS
     - DATE FUNCTIONS in MYSQL
